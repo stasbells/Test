@@ -5,6 +5,7 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
     [SerializeField] private GameObject _gameObject;
+    [SerializeField] private GameObject _scene;
 
     // Start is called before the first frame update
     void Start()
