@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class DIContainer : MonoBehaviour
 {
     [SerializeField] private GameObject _gameObject;
     [SerializeField] private GameObject _scene;
